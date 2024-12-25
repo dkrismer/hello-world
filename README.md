@@ -5,6 +5,3 @@ This is a change file for my Hello-World repository files.  I am a mentor for th
 
 My name is Dave Krismer and I live in Snohomish
 
-I want to add this line of code to branch 1
-
-
